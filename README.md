@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shivam Saurav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Backend(MERN)**
+- 🌱 I’m currently a **B.Tech in CSE** undergrad student.
 
 - 💬 Ask me about **JavaScript**
 
